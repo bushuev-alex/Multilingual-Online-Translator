@@ -20,8 +20,8 @@ def main():
             soup = my_translator.send_request(lang, my_translator.word)
             words = my_translator.fetch_words(soup)
             sentences = my_translator.fetch_sentences(soup)
-            # my_translator.write_words_sents(lang, words, sentences)
-            # my_translator.print_result()
+            my_translator.write_words_sents(lang, words, sentences)
+        my_translator.print_result()
 
 
 if __name__ == '__main__':
