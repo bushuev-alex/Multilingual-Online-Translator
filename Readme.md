@@ -25,12 +25,14 @@ File with result will contain two sections for each language:
 Launch translator with input in CLI:
 * python translator.py --home_lang=russian --translate_to=german --word=машина
 
---home_lang - optional argument, default value: russian
---translate_to - optional argument, default value: all
+--home_lang - optional argument, default value: russian\
+--translate_to - optional argument, default value: all\
 --word - optional argument, default value: Папа
 
-You can use all languages to translate to if insert 'All' or 'all' as value to argument --translate_to=
+You can use all languages to translate to if insert 'All' or 'all' as value to argument --translate_to=\
 Actually, 'all' is a default value for --translate_to=...
 
-Translation results will be saved in **Word_to_translate**.txt file.\
+Translation results will be saved in 
+\***Word_to_translate**.txt \
+file.\
 And printed in CLI.
