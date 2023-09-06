@@ -82,3 +82,88 @@ Turkish Examples:
 Папа с мамой искали его всю ночь.
 Anne ve baba bütün gece onu aradı.
 
+all Translations:
+Arabic Translations:
+أب
+
+Arabic Examples:
+Папа по существу об этом человеке ничего не известно.
+أَبّ، عملياً لا شيء معروفُ حول هذا الرجلِ.
+
+German Translations:
+Dad m
+
+German Examples:
+Папа, который проводит со мной душевные беседы.
+Dad setzt sich mit mir zu einem persönlichen Gespräch zusammen.
+
+English Translations:
+dad
+
+English Examples:
+Мой Богатый Папа, напротив, всегда считал себя богатым.
+My rich dad, on the other hand, always referred to himself as rich.
+
+Spanish Translations:
+Papa m
+
+Spanish Examples:
+Ни один Папа не брал себе это имя целое тысячелетие.
+Ningún otro Papa ha tomado ese nombre en casi un milenio.
+
+French Translations:
+papa m
+
+French Examples:
+Кроме этого кольца Папа также подарил ему коня и плащ.
+Même consigne et papa a acheté un cheval et un quad.
+
+Hebrew Translations:
+אבא m
+
+Hebrew Examples:
+Папа и мама не были идеальной парой.
+חייה בבית אבא ואמא לא היו אידיאליים.
+
+Japanese Translations:
+パパ
+
+Japanese Examples:
+Должно быть, Папа услышал меня.
+パパは私のことを　聞きつけたに違いない
+
+Dutch Translations:
+papa m
+
+Dutch Examples:
+Всегда буду любить тебя. Папа.
+Ik zal altijd van je blijven houden, papa.
+
+Ukrainian Translations:
+тато m
+
+Ukrainian Examples:
+Папа и мама всегда были очень заняты и не находили для меня времени.
+Зайняті справами тато та мама теж не знаходили для них часу.
+
+Portuguese Translations:
+pai m
+
+Portuguese Examples:
+Папа, он хочет что-то сказать.
+Ele está a tentar dizer uma coisa, pai.
+
+Italian Translations:
+papà m
+
+Italian Examples:
+Папа сделал нам сегодня день красоты.
+Abbiamo avuto un giorno di relax con papà.
+
+Turkish Translations:
+baba
+
+Turkish Examples:
+Папа с мамой искали его всю ночь.
+Anne ve baba bütün gece onu aradı.
+
